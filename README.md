@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Yandira
 </div>
-<img src="portada 2.png" width="320">
+<img src="portada 2.png" width="520">
 
 
 

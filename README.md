@@ -1,10 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy Yandira
 </div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
-
-
-
 <img src="portada 2.png" width="320">
 
 

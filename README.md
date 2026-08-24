@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Yandira
+<div align="center">
+  <img src="portada 2.png" width="520">
 </div>
-<img src="portada 2.png" width="520">
-
 
 
 **QA Engineer Junior | Testing Manual y de API | Background en edición de video**

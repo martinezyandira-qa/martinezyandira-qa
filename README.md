@@ -1,9 +1,8 @@
 # Yandira Martínez Jaimes
 
 
-<img src="foto-perfil.jpg" width="180" alt="Yandira Martínez Jaimes">
 
-<img src="portada 2.png" width="180" alt="Yandira Martínez Jaimes">
+<img src="portada 2.png" width="320" alt="Yandira Martínez Jaimes">
 
 
 

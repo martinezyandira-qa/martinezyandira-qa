@@ -6,7 +6,7 @@
 </div>
 
 
-**QA Engineer Junior | Testing Manual y de API | Background en edición de video**
+**QA Engineer | Testing Manual y de API | Background en edición de video**
 
 [LinkedIn](https://www.linkedin.com/in/yandira-martínez-qa-engineer/) · [CV Profesional](./Yandira_Martinez_CV_QA_En.pdf) · [Contacto](mailto:martinez.yandira28@gmail.com)
 
